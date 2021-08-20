@@ -1,0 +1,32 @@
+
+#currency-convertor {
+  margin-top: 10%;
+  margin-left: 15%;
+}
+.d-flex {
+  display: flex;
+}
+#from-to input {
+  border: 2px solid rgb(82, 79, 79);
+  border-radius: 3px;
+  font-size: 16px;
+  padding: 5px 2px;
+  margin-right: 20px;
+  height: 20px;
+}
+#from-to p {
+  margin-right: 20px;
+}
+#currency-select select {
+  width: 173px;
+  margin-right: 20px;
+  height: 30px;
+  margin-top: 30px;
+}
+#convert {
+  margin-top: 20px;
+  padding: 3px 10px;
+  border: 2px solid rgb(82, 79, 79);
+  border-radius: 3px;
+  cursor: pointer;
+}
